@@ -26,3 +26,7 @@ print('...'.join(playbackspd))
 ```
 The rest of the problem sets are in folder [Week0](Week0)
 ## Week1
+Week 1 problem sets are in folder [Week1](Week1)
+
+## Week2
+Week 2 problem sets are in folder [Week2](Week2)
