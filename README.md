@@ -15,8 +15,10 @@ Et Cetera
 
 ## Week0
 ### Indoor Voice
+```
 InVoice = input("Use your indoor voice! ").lower()
 print(InVoice)
+```
 
 ### Playback Speed
 playbackspd = input("Display 0.75 playback speed ").split()
