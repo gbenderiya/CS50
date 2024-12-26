@@ -2,15 +2,15 @@
 
 Th repo contains the solution to the problem sets.
 Here is agenda:
-Week 0: Functions, Variables
-Week 1: Conditionals
-Week 2: Loops
-Week 3: Exceptions
-Week 4: Libraries
-Week 5: Unit Tests
-Week 6: File I/O
-Week 7: Regular Expressions
-Week 8: Object-Oriented Programming
+- Week 0: Functions, Variables
+- Week 1: Conditionals
+- Week 2: Loops
+- Week 3: Exceptions
+- Week 4: Libraries
+- Week 5: Unit Tests
+- Week 6: File I/O
+- Week 7: Regular Expressions
+- Week 8: Object-Oriented Programming
 Et Cetera
 
 ## Week0
