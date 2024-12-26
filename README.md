@@ -24,48 +24,5 @@ print(InVoice)
 playbackspd = input("Display 0.75 playback speed ").split()
 print('...'.join(playbackspd))
 ```
-### Making Faces
-def main():
-    faces()
-    
-def faces():
-    face = input("What's your input:")
-    face = face.replace(":)","😊")
-    face = face.replace(":(","😠")
-    print(face)
-        
-if __name__=="__main__":
-    main()
-
-### Einstein
-def main():
-    einstein()
-    
-def einstein():
-    m = int(input("m: "))
-    c = 300000
-    e = m*c**2
-    print(e)
-
-if __name__ == "__main__":
-    main()
-    
-### Tip Calculator
-def main():
-    dollars = dollars_to_float(input("How much was the meal? "))
-    percent = percent_to_float(input("What percentage would you like to tip? "))
-    tip = dollars * percent
-    print(f"Leave ${tip:.2f}")
-    
-def dollars_to_float(d):
-    d = d.replace("$","")
-    return float(d)
-
-def percent_to_float(p):
-    p = p.replace("%","")
-    p = float(p)
-    p = p/100
-    return p
-main()
-
+The rest of the problem sets are in folder [Week0](Week0)
 ## Week1
