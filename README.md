@@ -19,15 +19,11 @@ Et Cetera
 InVoice = input("Use your indoor voice! ").lower()
 print(InVoice)
 ```
-
 ### Playback Speed
+```
 playbackspd = input("Display 0.75 playback speed ").split()
 print('...'.join(playbackspd))
-
-### Playback Speed
-playbackspd = input("Display 0.75 playback speed ").split()
-print('...'.join(playbackspd))
-
+```
 ### Making Faces
 def main():
     faces()
